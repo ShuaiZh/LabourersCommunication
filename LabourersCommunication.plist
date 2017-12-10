@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.210.131.36:58080/uploads/file/wqgj_versioncontrol/2016-09-28/DetectionManagement.ipa--5ace4a147d5845319c022b044285cb0b.ipa</string>
+					<string>http://112.132.231.2:8090/lrps/static/projects/apps/LabourersCommunication.ipa-97f961d442774352b1148a48bf94783f.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>劳动痛</string>
+				<string>劳动通</string>
 			</dict>
 		</dict>
 	</array>
