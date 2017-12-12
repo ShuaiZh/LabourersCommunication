@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://112.132.231.2:8090/lrps/static/projects/apps/LabourersCommunication.ipa-97f961d442774352b1148a48bf94783f.ipa</string>
+					<string>http://112.132.231.2:8090/lrps/json/wkjs/version/downFileByVersionCode?versionCode=mgt_ios&postfix=ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
